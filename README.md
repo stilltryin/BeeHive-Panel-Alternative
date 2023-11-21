@@ -1,2 +1,2 @@
 # BeeHive-Panel-Alternative
-This is an Alternative Panel for Beehive Eurorack Module
+GERBER Files for an alternative panel for the Beehive Eurorack Module (MI Plaits clone). 
